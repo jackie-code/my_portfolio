@@ -1,5 +1,5 @@
-# portfolio_wireframe
-wire-frame requirement for portfolio
+# My Portfolio
+
 [view portfolio](https://jackie-code.github.io/my_portfolio/)
 
 
